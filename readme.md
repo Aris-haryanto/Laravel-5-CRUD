@@ -21,9 +21,9 @@ DB_PASSWORD=
 
 kemudian buka browser
 
-lalu masukan http://localhost/nama-project/public/create-tbluser untuk membuat tabel
+lalu masukan [http://localhost/nama-project/public/create-tbluser](http://localhost/nama-project/public/create-tbluser) untuk membuat tabel
 
-jika sudah masukan http://localhost/nama-project/public/
+jika sudah masukan [http://localhost/nama-project/public/](http://localhost/nama-project/public/)
 
 selesai :)
 
@@ -47,9 +47,9 @@ DB_PASSWORD=
 
 open your browser
 
-insert this link http://localhost/project-name/public/create-tbluser to create table into your database
+insert this link [http://localhost/project-name/public/create-tbluser](http://localhost/project-name/public/create-tbluser) to create table into your database
 
-if already, insert this http://localhost/project-name/public/
+if already, insert this [http://localhost/project-name/public/](http://localhost/project-name/public/)
 
 
 Finish :)
