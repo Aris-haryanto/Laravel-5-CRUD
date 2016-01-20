@@ -1,12 +1,12 @@
 ## Tutorial CRUD Laravel 5
 
-## Konfigurasi 
-
+### Konfigurasi 
 untuk menjalankannnya
 
 buat databasenya terlebih dahulu
 
-jika sudah edit file .env seperti berikut 
+jika sudah edit file .env seperti berikut
+
 
 
 DB_HOST=localhost
@@ -18,6 +18,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 
+
 kemudian buka browser
 
 lalu masukan http://localhost/nama-project/public/create-tbluser untuk membuat tabel
@@ -27,8 +28,7 @@ jika sudah masukan http://localhost/nama-project/public/
 selesai :)
 
 
-## Configuration
-
+### Configuration
 to run this
 
 first you must to create database
@@ -47,9 +47,9 @@ DB_PASSWORD=
 
 open your browser
 
-insert this link http://localhost/nama-project/public/create-tbluser to create table into your database
+insert this link http://localhost/project-name/public/create-tbluser to create table into your database
 
-if already, insert this http://localhost/nama-project/public/
+if already, insert this http://localhost/project-name/public/
 
 
 Finish :)
